@@ -2,7 +2,7 @@
 
 ## Steps
 
-- Clone as follows ahah
+- Clone as follows 
 
 ```
 git clone https://github.com/papicella/scs-config
